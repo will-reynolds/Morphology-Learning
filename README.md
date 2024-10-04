@@ -9,3 +9,13 @@
 The morphology of microstructures in scaffolds is a critical factor influencing both mechanical properties and biological performance, such as cell growth, in bone tissue engineering. While metamaterials with optimized mechanical properties, such as hyperelasticity, thermal efficiency, or energy absorption, have been designed through complex microstructural geometry with the help of numerical simulation of multi-physics, optimizing biological performance alongside these physical traits remains a significant challenge. This is primarily because biological performance must be evaluated through laboratory experiments. To address this issue, we propose a novel approach that simultaneously optimizes mechanical stiffness and cell growth effectiveness through a data-driven morphology learning method. Our approach effectively extracts and learns shape patterns from a specifically selected dataset of microstructures recognized for their superior cell growth performance. We then integrate these patterns into a computational framework based on topology optimization, enabling the generation of new microstructures that maintain high levels of cell growth while enhancing mechanical stiffness. Using this morphology learning-based method, we identified a scaffold design for bone tissue engineering that demonstrates a significant improvement in both mechanical stiffness (by 26.35\%) and cell proliferation.
 
 ## Usage
+Run ./code/Morphology Learning/Morphology Learning.py
+
+Before that, you should download the full dataset of the filtered dataset from the following links:
+[Full dataset](https://drive.google.com/file/d/13bQZYW0j-nxYzCS1y7LEDq5f7ejf5fNt/view?usp=sharing)
+
+[Filtered dataset](https://drive.google.com/file/d/1bQKuHTiDrEkyLNP7c-Ne0qq0PsQvRqMh/view?usp=sharing)
+
+Then, a set of points as well as their SDF values should be sampled for each structure in the dataset. 
+You can run the following file to sample points:
+Rud ./code/Morphology Learning/data/sampling
