@@ -15,9 +15,8 @@ The morphology of microstructures in scaffolds is a critical factor influencing 
 #### cvxopt 1.2.0
 
 ## Usage
-For the morphology learning, you can run:
 
-./code/Morphology Learning/Morphology Learning.py
+# Step 1: Download dataset and sample points:
 
 Before that, you should download the full dataset of the filtered dataset from the following links:
 
@@ -30,6 +29,23 @@ You can run the following file to sample points:
 
 Run ./code/Morphology Learning/data/sampling
 
+# Step 2: Morphology learning:
+
+You can run the following file to train the neural network:
+
+Run ./code/Morphology Learning/Morphology Learning.py
+
+# Step 3: Structural optimization:
+
 After training, you can run the following file to optimize structural performance:
 
 Run ./code/Topology Optimization/structural_opt.py
+
+## Citations:
+
+
+## Contact information:
+
+Weiming Wang (weiming.wang@manchester.ac.uk)
+
+Yanhao Hou (yanhao.hou@manchester.ac.uk)
