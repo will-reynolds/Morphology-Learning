@@ -2,7 +2,7 @@
 #### Our project is composed of two parts: morphology learning and structural optimization.
 
 ![Overview (1)](https://github.com/user-attachments/assets/baf17543-c8aa-42c6-a355-c0a3032afb93)
-Weiming Wang, Yanhao Hou, Renbo Su, Weiguang Wang, Charlie C.L.Wang. Simultaneously optimized mechanical stiffness and cell growth on scaffold by morphology learning.
+[Weiming Wang](https://weiming-wang.github.io/), [Yanhao Hou](https://scholar.google.com/citations?user=hFebGnoAAAAJ&hl=zh-CN), [Renbo Su](https://www.researchgate.net/profile/Renbo_Su), [Weiguang Wang](https://scholar.google.co.uk/citations?user=z60XpXQAAAAJ&hl=en), [Charlie C.L.Wang](https://mewangcl.github.io/). Simultaneously optimized mechanical stiffness and cell growth on scaffold by morphology learning.
 
 
 ## Abstract
