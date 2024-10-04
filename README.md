@@ -12,10 +12,12 @@ The morphology of microstructures in scaffolds is a critical factor influencing 
 Run ./code/Morphology Learning/Morphology Learning.py
 
 Before that, you should download the full dataset of the filtered dataset from the following links:
+
 [Full dataset](https://drive.google.com/file/d/13bQZYW0j-nxYzCS1y7LEDq5f7ejf5fNt/view?usp=sharing)
 
 [Filtered dataset](https://drive.google.com/file/d/1bQKuHTiDrEkyLNP7c-Ne0qq0PsQvRqMh/view?usp=sharing)
 
 Then, a set of points as well as their SDF values should be sampled for each structure in the dataset. 
 You can run the following file to sample points:
+
 Rud ./code/Morphology Learning/data/sampling
