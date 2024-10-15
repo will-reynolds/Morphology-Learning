@@ -18,7 +18,7 @@ The morphology of microstructures in scaffolds is a critical factor influencing 
 
 # Step 1: Download dataset and sample points:
 
-Before that, you should download the full dataset of the filtered dataset from the following links:
+Before that, you should download the full dataset or the filtered dataset from the following links:
 
 [Full dataset](https://drive.google.com/file/d/13bQZYW0j-nxYzCS1y7LEDq5f7ejf5fNt/view?usp=sharing)
 
